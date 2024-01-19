@@ -185,6 +185,6 @@
 }
 
   .iframe {
-    position: relative
-    left: 100px
+    position: static;
+    left: 100px;
   }
