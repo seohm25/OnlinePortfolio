@@ -1,3 +1,4 @@
+
 .content {
     position: fixed;
     top: 30;
@@ -185,6 +186,9 @@
 }
 
   .iframe {
-    position: static;
-    left: 100px;
+    position: relative;
+    padding-top: 45px;
+    padding-right: 80px; 
+    margin-left: 50px;
+    z-index: -10 ;
   }
